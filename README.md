@@ -52,15 +52,6 @@
 ###
 
 <div align="left">
-
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-<div align="left">
    <a href="mailto:your-neharikarout01@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
@@ -70,4 +61,15 @@
 
  
 </div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neharikarout&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /><br><br>
+  <img src="https://streak-stats.demolab.com?user=neharikarout&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
 
